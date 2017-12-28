@@ -1,6 +1,5 @@
 html{
   text-align:center;
-  color:gray;
   font-family:helvetica;
 }
 ul{
@@ -33,9 +32,17 @@ h4{
 p{
   font-size:14px;
 }
-footer p{
+footer p,
+footer a{
   font-size:11px;
   color:white;
   background-color:dimgray;
   text-align:left;
+}
+a{
+  color:white;
+  font-weight:bold;
+}
+li a{
+  font-size:18px;
 }
