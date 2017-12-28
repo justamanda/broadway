@@ -3,3 +3,15 @@ html{
   color:gray;
   font-family:helvetica;
 }
+ul{
+  list-style-type:none;
+}
+.header{
+  color:white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  font-size:18px;
+}
+h1{
+  font-size:70px;
+  font-weight:bold;
+}
