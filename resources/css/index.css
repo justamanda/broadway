@@ -39,7 +39,8 @@ footer a{
   background-color:dimgray;
   text-align:left;
 }
-a{
+li a,
+footer a{
   color:white;
   font-weight:bold;
 }
